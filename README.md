@@ -1,4 +1,4 @@
-# Pong Game
+# PingPong Game
 A classic Pong game implemented in C++ using the Raylib library. This project provides a simple and enjoyable game experience where players can compete against each other or play against an AI-controlled opponent.
 ![Screenshot (496)](https://github.com/RafayKhattak/PingPong-cpp/assets/90026724/9c7862e8-d441-4400-b71b-513f1412ffe1)
 ## Features
